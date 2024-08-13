@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mohammadrad81
-- 👀 I’m interested in Algorithms, Artificial Intelligence, Automata theory, and last but not least, Combinatorics.
-- 🌱 I’m currently learning Machine learning (NLP particularly).
-- 💞️ I’m looking to collaborate on ML based projects, or any fun idea related to computer engineering.
+- 👀 I’m interested in Algorithms, Artificial Intelligence, Natural Language Processing and Automata theory.
+- 💞️ I’m looking to collaborate on ML based projects, or any other fun idea related to computer engineering.
 - 📫 How to reach me :
 - email: mohammad.rad81@gmail.com
 - telegram: @RAD81
